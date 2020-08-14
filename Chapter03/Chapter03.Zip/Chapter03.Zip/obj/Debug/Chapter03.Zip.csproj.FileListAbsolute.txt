@@ -1,0 +1,10 @@
+C:\Users\aymen\Desktop\VS\Chapter03.Zip\Chapter03.Zip\bin\Debug\Chapter03.Zip.exe.config
+C:\Users\aymen\Desktop\VS\Chapter03.Zip\Chapter03.Zip\bin\Debug\Chapter03.Zip.exe
+C:\Users\aymen\Desktop\VS\Chapter03.Zip\Chapter03.Zip\bin\Debug\Chapter03.Zip.pdb
+C:\Users\aymen\Desktop\VS\Chapter03.Zip\Chapter03.Zip\obj\Debug\Chapter03.Zip.csprojAssemblyReference.cache
+C:\Users\aymen\Desktop\VS\Chapter03.Zip\Chapter03.Zip\obj\Debug\Chapter03.Zip.frmMain.resources
+C:\Users\aymen\Desktop\VS\Chapter03.Zip\Chapter03.Zip\obj\Debug\Chapter03.Zip.Properties.Resources.resources
+C:\Users\aymen\Desktop\VS\Chapter03.Zip\Chapter03.Zip\obj\Debug\Chapter03.Zip.csproj.GenerateResource.cache
+C:\Users\aymen\Desktop\VS\Chapter03.Zip\Chapter03.Zip\obj\Debug\Chapter03.Zip.csproj.CoreCompileInputs.cache
+C:\Users\aymen\Desktop\VS\Chapter03.Zip\Chapter03.Zip\obj\Debug\Chapter03.Zip.exe
+C:\Users\aymen\Desktop\VS\Chapter03.Zip\Chapter03.Zip\obj\Debug\Chapter03.Zip.pdb

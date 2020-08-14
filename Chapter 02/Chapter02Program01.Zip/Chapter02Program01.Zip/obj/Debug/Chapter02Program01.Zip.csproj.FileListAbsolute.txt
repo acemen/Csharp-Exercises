@@ -1,0 +1,9 @@
+C:\Users\aymen\Desktop\VS\chapter02program01\Chapter02Program01.Zip\Chapter02Program01.Zip\Chapter02Program01.Zip\bin\Debug\Chapter02Program01.Zip.exe.config
+C:\Users\aymen\Desktop\VS\chapter02program01\Chapter02Program01.Zip\Chapter02Program01.Zip\Chapter02Program01.Zip\bin\Debug\Chapter02Program01.Zip.exe
+C:\Users\aymen\Desktop\VS\chapter02program01\Chapter02Program01.Zip\Chapter02Program01.Zip\Chapter02Program01.Zip\bin\Debug\Chapter02Program01.Zip.pdb
+C:\Users\aymen\Desktop\VS\chapter02program01\Chapter02Program01.Zip\Chapter02Program01.Zip\Chapter02Program01.Zip\obj\Debug\Chapter02Program01.Zip.frmMain.resources
+C:\Users\aymen\Desktop\VS\chapter02program01\Chapter02Program01.Zip\Chapter02Program01.Zip\Chapter02Program01.Zip\obj\Debug\Chapter02Program01.Zip.Properties.Resources.resources
+C:\Users\aymen\Desktop\VS\chapter02program01\Chapter02Program01.Zip\Chapter02Program01.Zip\Chapter02Program01.Zip\obj\Debug\Chapter02Program01.Zip.csproj.GenerateResource.cache
+C:\Users\aymen\Desktop\VS\chapter02program01\Chapter02Program01.Zip\Chapter02Program01.Zip\Chapter02Program01.Zip\obj\Debug\Chapter02Program01.Zip.csproj.CoreCompileInputs.cache
+C:\Users\aymen\Desktop\VS\chapter02program01\Chapter02Program01.Zip\Chapter02Program01.Zip\Chapter02Program01.Zip\obj\Debug\Chapter02Program01.Zip.exe
+C:\Users\aymen\Desktop\VS\chapter02program01\Chapter02Program01.Zip\Chapter02Program01.Zip\Chapter02Program01.Zip\obj\Debug\Chapter02Program01.Zip.pdb
