@@ -1,0 +1,10 @@
+C:\Users\aymen\Desktop\VS\Chapter05\Chapter05StringMethods\Chapter05StringMethods\bin\Debug\Chapter05StringMethods.exe.config
+C:\Users\aymen\Desktop\VS\Chapter05\Chapter05StringMethods\Chapter05StringMethods\bin\Debug\Chapter05StringMethods.exe
+C:\Users\aymen\Desktop\VS\Chapter05\Chapter05StringMethods\Chapter05StringMethods\bin\Debug\Chapter05StringMethods.pdb
+C:\Users\aymen\Desktop\VS\Chapter05\Chapter05StringMethods\Chapter05StringMethods\obj\Debug\Chapter05StringMethods.csprojAssemblyReference.cache
+C:\Users\aymen\Desktop\VS\Chapter05\Chapter05StringMethods\Chapter05StringMethods\obj\Debug\Chapter05StringMethods.Form1.resources
+C:\Users\aymen\Desktop\VS\Chapter05\Chapter05StringMethods\Chapter05StringMethods\obj\Debug\Chapter05StringMethods.Properties.Resources.resources
+C:\Users\aymen\Desktop\VS\Chapter05\Chapter05StringMethods\Chapter05StringMethods\obj\Debug\Chapter05StringMethods.csproj.GenerateResource.cache
+C:\Users\aymen\Desktop\VS\Chapter05\Chapter05StringMethods\Chapter05StringMethods\obj\Debug\Chapter05StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\aymen\Desktop\VS\Chapter05\Chapter05StringMethods\Chapter05StringMethods\obj\Debug\Chapter05StringMethods.exe
+C:\Users\aymen\Desktop\VS\Chapter05\Chapter05StringMethods\Chapter05StringMethods\obj\Debug\Chapter05StringMethods.pdb
