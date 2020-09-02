@@ -1,0 +1,10 @@
+C:\Users\aymen\Desktop\VS\Odd or Even num\Odd or Even num\bin\Debug\Odd or Even num.exe.config
+C:\Users\aymen\Desktop\VS\Odd or Even num\Odd or Even num\bin\Debug\Odd or Even num.exe
+C:\Users\aymen\Desktop\VS\Odd or Even num\Odd or Even num\bin\Debug\Odd or Even num.pdb
+C:\Users\aymen\Desktop\VS\Odd or Even num\Odd or Even num\obj\Debug\Odd or Even num.csprojAssemblyReference.cache
+C:\Users\aymen\Desktop\VS\Odd or Even num\Odd or Even num\obj\Debug\Odd_or_Even_num.Properties.Resources.resources
+C:\Users\aymen\Desktop\VS\Odd or Even num\Odd or Even num\obj\Debug\Odd or Even num.csproj.GenerateResource.cache
+C:\Users\aymen\Desktop\VS\Odd or Even num\Odd or Even num\obj\Debug\Odd or Even num.csproj.CoreCompileInputs.cache
+C:\Users\aymen\Desktop\VS\Odd or Even num\Odd or Even num\obj\Debug\Odd or Even num.exe
+C:\Users\aymen\Desktop\VS\Odd or Even num\Odd or Even num\obj\Debug\Odd or Even num.pdb
+C:\Users\aymen\Desktop\VS\Odd or Even num\Odd or Even num\obj\Debug\Odd_or_Even_num.Odd_or_Even_num.resources
